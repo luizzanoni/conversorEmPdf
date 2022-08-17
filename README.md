@@ -1,6 +1,6 @@
 # Conversor em .PDF
 
-criado este arquivo para converter qualquer modelo de imagem BMP, JPEG, GIF, PNG, PDF, EPS, SVG, TIFF, DWTIFF, 
+criado este programa para converter qualquer modelo de imagem BMP, JPEG, GIF, PNG, PDF, EPS, SVG, TIFF, DWTIFF, 
 entre outros para facilitar o dia-a-dia.
 
 Todos os arquivos "imagens" que estiverem na pasta e você executar, serão convertidos para .PDF!
